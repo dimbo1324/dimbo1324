@@ -48,8 +48,10 @@
   <a href="https://github.com/dimaprihodko180" title="GitHub">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-060A15?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
-  <a href="mailto:dimaprihodko180@gmail.com?subject=Hello%20Dmitry&body=I%20came%20across%20your%20GitHub%20profile%20and%20...">
+  <a href="mailto:dimaprihodko180@gmail.com" title="Gmail">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-060A15?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
 </div>
+
+
 </div>
