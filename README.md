@@ -5,9 +5,9 @@
 <p align="center">
   <picture>
     <!-- Dark-mode banner -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dimbo1324/assets/htitle-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dimbo1324/dimbo1324/blob/main/assets/htitle.png">
     <!-- Light-mode banner -->
-    <img alt="Header" src="https://github.com/dimbo1324/assets/htitle-light.png">
+    <img alt="Header" src="https://github.com/dimbo1324/dimbo1324/blob/main/assets/htitle.png">
   </picture>
 </p>
 
