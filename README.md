@@ -1,4 +1,4 @@
-[![Header](https://github.com/dimbo1324/dimbo1324/blob/main/assets/title.png)](https://www.youtube.com/watch?v=1yELlB39TvY)
+![Header](https://github.com/dimbo1324/dimbo1324/blob/main/assets/title.png)
 <!-- Обо мне -->
 <!-- Соц сети (видео) -->
 <!-- Инструменты -->
