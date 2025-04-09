@@ -1,120 +1,154 @@
 [![Header](https://github.com/dimbo1324/dimbo1324/blob/main/assets/title.png)]("#")
 
 <style>
-  /* Общие настройки */
   @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
-  .card-container {
+  :root {
+    --bg-page: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    --card-bg: rgba(255, 255, 255, 0.05);
+    --card-border: rgba(255, 255, 255, 0.15);
+    --accent: #FFC107;
+    --text-color: #e0e0e0;
+  }
+
+  body {
+    font-family: 'Source Code Pro', monospace;
+    color: var(--text-color);
+    background: var(--bg-page);
+    padding: 20px;
+  }
+
+  h2 {
     display: flex;
-    flex-wrap: wrap;
+    align-items: center;
     gap: 8px;
-    justify-content: center;
+    margin-bottom: 12px;
+    font-size: 1.4em;
+  }
+
+  .grid-5 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 16px;
+    margin-bottom: 32px;
   }
 
   .card {
-    font-family: 'Source Code Pro', monospace;
-    background-color: #1e1e1e; /* тёмный фон карточки */
-    border: 2px solid #FFC107; /* яркий бордер */
-    border-radius: 8px;
-    padding: 12px;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 12px;
+    padding: 16px;
     text-align: center;
-    width: calc(20% - 16px); /* 5 карточек в ряд */
-    box-sizing: border-box;
-    transition: transform 0.2s ease;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
 
   .card:hover {
     transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.4);
   }
 
   .card img {
-    max-width: 100%;
-    height: auto;
+    max-width: 40px;
+    margin-bottom: 8px;
   }
 
-  .socials .card {
-    width: calc(20% - 16px); /* по 5 соцсетей в ряд */
+  .socials a {
+    text-decoration: none;
   }
 
-  .readme-body {
-    background-color: #121212; /* фон всего README */
-    padding: 16px;
-    border-radius: 8px;
+  /* Динамические виджеты */
+  .widgets {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+  }
+
+  .widgets img {
+    border-radius: 12px;
+    border: 1px solid var(--card-border);
   }
 </style>
 
-<div class="readme-body">
-
 ## My name is Dmitry, I am a software engineer.
 
-### 🛠️ Инструменты
+---
 
-<div class="card-container">
+<h2>🛠️ Инструменты</h2>
+<div class="grid-5">
+  <!-- Повторить для каждого -->
   <div class="card">
-    <img src="https://img.shields.io/badge/-C++-060A15?style=for-the-badge&logo=c%2B%2B&logoColor=FFC107" alt="C++">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++">
+    <div>C++</div>
   </div>
   <div class="card">
-    <img src="https://img.shields.io/badge/-Go-060A15?style=for-the-badge&logo=go&logoColor=FFC107" alt="Go">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go">
+    <div>Go</div>
   </div>
   <div class="card">
-    <img src="https://img.shields.io/badge/-PostgreSQL-060A15?style=for-the-badge&logo=postgresql&logoColor=FFC107" alt="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+    <div>PostgreSQL</div>
   </div>
   <div class="card">
-    <img src="https://img.shields.io/badge/-MySQL-060A15?style=for-the-badge&logo=mysql&logoColor=FFC107" alt="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">
+    <div>MySQL</div>
   </div>
   <div class="card">
-    <img src="https://img.shields.io/badge/-JavaScript-060A15?style=for-the-badge&logo=javascript&logoColor=FFC107" alt="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+    <div>JavaScript</div>
   </div>
   <div class="card">
-    <img src="https://img.shields.io/badge/-TypeScript-060A15?style=for-the-badge&logo=typescript&logoColor=FFC107" alt="TypeScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
+    <div>TypeScript</div>
   </div>
   <div class="card">
-    <img src="https://img.shields.io/badge/-Node.js-060A15?style=for-the-badge&logo=node.js&logoColor=FFC107" alt="Node.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
+    <div>Node.js</div>
   </div>
   <div class="card">
-    <img src="https://img.shields.io/badge/-React-060A15?style=for-the-badge&logo=react&logoColor=FFC107" alt="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+    <div>React</div>
   </div>
   <div class="card">
-    <img src="https://img.shields.io/badge/-Next.js-060A15?style=for-the-badge&logo=next.js&logoColor=FFC107" alt="Next.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js">
+    <div>Next.js</div>
   </div>
   <div class="card">
-    <img src="https://img.shields.io/badge/-Figma-060A15?style=for-the-badge&logo=figma&logoColor=FFC107" alt="Figma">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma">
+    <div>Figma</div>
   </div>
 </div>
 
 ---
 
-### 🌐 Социальные сети
-
-<div class="card-container socials">
-  <a class="card" href="#" title="Telegram">
-    <img src="https://img.shields.io/badge/-Telegram-060A15?style=for-the-badge&logo=telegram&logoColor=31A5E7" alt="Telegram">
+<h2>🌐 Социальные сети</h2>
+<div class="grid-5 socials">
+  <a href="#" class="card">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram">
+    <div>Telegram</div>
   </a>
-  <a class="card" href="#" title="Google">
-    <img src="https://img.shields.io/badge/-Google-060A15?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google">
+  <a href="#" class="card">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google">
+    <div>Google</div>
   </a>
-  <a class="card" href="#" title="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-060A15?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+  <a href="#" class="card">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
+    <div>GitHub</div>
   </a>
-  <a class="card" href="#" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-060A15?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
+  <a href="#" class="card">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp">
+    <div>WhatsApp</div>
   </a>
-  <a class="card" href="#" title="Yandex">
-    <img src="https://img.shields.io/badge/-Yandex-060A15?style=for-the-badge&logo=yandex&logoColor=FF0000" alt="Yandex">
+  <a href="#" class="card">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Yandex_Icon.svg" alt="Yandex" style="width:32px;">
+    <div>Yandex</div>
   </a>
 </div>
 
 ---
 
-### 📊 Динамические виджеты
-
-<div align="center">
-  <!-- Статистика GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&theme=dark&border_color=FFC107" alt="GitHub Stats" />
-
-  <!-- Календарь вкладок -->
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dimbo1324&theme=github&hide_border=true" alt="Activity Graph" />
-</div>
-
+<h2>📊 Динамические виджеты</h2>
+<div class="widgets">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dimbo1324&theme=github" alt="Activity Graph" />
 </div>
