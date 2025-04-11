@@ -45,9 +45,6 @@
   <a href="https://wa.me/79049265729" title="WhatsApp">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-060A15?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
-  <a href="https://github.com/dimaprihodko180" title="GitHub">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-060A15?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
   <a href="mailto:dimaprihodko180@gmail.com" title="Gmail">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-060A15?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
