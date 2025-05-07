@@ -9,14 +9,13 @@
 
   <!-- Title & Tagline -->
   <h1><strong>Hey there, I’m Dmitry 👋</strong></h1>
-  <p><em>Software Engineer • C++ | Python | JavaScript • Building robust, scalable solutions</em></p>
+  <p><em>Software Engineer • Industrial Automation enthusiast</em></p>
 
   <!-- Quick Links -->
   <p>
     <a href="#about-me">About</a> •
     <a href="#tech-stack">Tech Stack</a> •
-    <a href="#projects">Projects</a> •
-    <a href="#stats">Stats</a> •
+    <a href="#graphs-widgets">Graphs & Widgets</a> •
     <a href="#contact">Contact</a>
   </p>
 </div>
@@ -25,54 +24,45 @@
 
 ## 🚀 About Me
 
-I work mainly in industrial automation—PLCs and SCADA systems are my everyday focus.  
-My go-to tools are C++ and JavaScript, with occasional projects in Python and Go.  
+I work mainly in industrial automation—PLCs and SCADA (АСУТП) are my everyday focus.  
+My go-to tools are **C++** and **JavaScript**, with occasional projects in **Python** and **Go**.  
 Always learning, always refining.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Domain              | Tools & Frameworks                                                                                                                                                                                                                                                                                                                                                              |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **C++ & Desktop**   | ![C++](https://img.shields.io/badge/C++17+-05122A?style=for-the-badge&logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-05122A?style=for-the-badge&logo=qt) ![CMake](https://img.shields.io/badge/CMake-05122A?style=for-the-badge&logo=cmake)                                                                                                                              |
-| **Backend & DB**    | ![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql)                                                                                                      |
-| **Web Frontend**    | ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-05122A?style=for-the-badge&logo=next.js) |
-| **Other Languages** | ![Go](https://img.shields.io/badge/Go-05122A?style=for-the-badge&logo=go)                                                                                                                                                                                                                                                                                                       |
+<p align="center">
+  <!-- Цветные бейджи с оригинальным логотипом и цветами -->
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img alt="CMake" src="https://img.shields.io/badge/CMake-DA3434?style=for-the-badge&logo=cmake&logoColor=white" />
+</p>
 
 ---
 
-## 💼 Featured Projects
-
-<details>
-<summary><strong>Industrial Automation Dashboard</strong> — Real-time monitoring for power plants</summary>
-
-- Built with C++, Qt & RESTful APIs to visualize sensor data
-- Integrated cloud-based ML for anomaly detection
-- ✅ **Highlights**:
-  - 99.7% uptime over 6 months
-  - Reduced manual alerts by 85%
-
-</details>
-
-<details>
-<summary><strong>Smart Vision System</strong> — Computer vision for quality control</summary>
-
-- Python + OpenCV + TensorFlow for defect detection
-- Deployed on edge devices (Raspberry Pi, NVIDIA Jetson)
-- ✅ **Highlights**:
-  - Processed 1200+ items/hour
-  - Accuracy > 98%
-
-</details>
-
----
-
-## 📊 GitHub Stats
+## 📈 Graphs & Widgets
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&count_private=true&theme=dark&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimbo1324&layout=compact&theme=dark&hide_border=true" />
+  <!-- GitHub Contribution Calendar -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=dimbo1324&theme=github&hide_border=true" alt="Contribution Graph" width="700"/>
+
+  <!-- WakaTime Coding Activity (пример, нужно добавить токен) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=dark" alt="WakaTime Stats" />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=dimbo1324&theme=darkhub&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- Language Usage Chart (через shields.io sparkline) -->
+  <img alt="Language Usage" src="https://img.shields.io/badge/sparkline-C%2B%2B%7CJavaScript%7CPython%7CGo-999?style=for-the-badge" />
+  <!-- Visitor Counter -->
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=dimbo1324&color=blue" />
 </p>
 
 ---
@@ -81,15 +71,15 @@ Always learning, always refining.
 
 <div align="center">
   <a href="https://t.me/dimbo1324" title="Telegram">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=FFFDFB" />
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://wa.me/79049265729" title="WhatsApp">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFDFB" />
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:dimaprihodko180@gmail.com" title="Email">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFDFB" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/dmitry-profile" title="LinkedIn">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFDFB" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
