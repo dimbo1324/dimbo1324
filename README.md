@@ -5,7 +5,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/light/title.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/dark/title.png">
-    <img alt="Welcome Banner" src="assets/light/title.png" width="75%" />
+    <img alt="Welcome Banner" src="assets/light/title.png" width="100%" />
   </picture>
 
   <!-- Title & Tagline -->
