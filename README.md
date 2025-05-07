@@ -9,7 +9,7 @@
 
 <h1>Привет, я Дмитрий 👋</h1>
 <p><strong>Software Engineer</strong></p>
-<p align="center"><em>Специализируюсь на C++, Go, JavaScript и TypeScript, создавая надежные и эффективные решения.</em></p>
+<p align="center"><em>Специализируюсь на C++, Python, JavaScript, создавая надежные и эффективные решения.</em></p>
 
 ---
 
@@ -17,13 +17,9 @@
 
 <p align="center">
   <strong>⚙️ C++ Ecosystem & Desktop</strong><br/>
-  <img alt="C++" src="https://img.shields.io/badge/C++%20(17%2B)-13171C?style=for-the-badge&logo=cplusplus&logoColor=E1E3E1#gh-dark-mode-only" />
   <img alt="C++" src="https://img.shields.io/badge/C++%20(17%2B)-FFFDFB?style=for-the-badge&logo=cplusplus&logoColor=053D65#gh-light-mode-only" />
-  <img alt="CMake" src="https://img.shields.io/badge/CMake-13171C?style=for-the-badge&logo=cmake&logoColor=E1E3E1#gh-dark-mode-only" />
   <img alt="CMake" src="https://img.shields.io/badge/CMake-FFFDFB?style=for-the-badge&logo=cmake&logoColor=053D65#gh-light-mode-only" />
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-13171C?style=for-the-badge&logo=qt&logoColor=E1E3E1#gh-dark-mode-only" />
   <img alt="Qt" src="https://img.shields.io/badge/Qt-FFFDFB?style=for-the-badge&logo=qt&logoColor=2AA3AC#gh-light-mode-only" />
-  <img alt="STL" src="https://img.shields.io/badge/STL-13171C?style=for-the-badge&logoColor=E1E3E1#gh-dark-mode-only" />
   <img alt="STL" src="https://img.shields.io/badge/STL-FFFDFB?style=for-the-badge&logoColor=053D65#gh-light-mode-only" />
 </p>
 
