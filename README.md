@@ -1,74 +1,96 @@
 <div align="center">
-  <p align="center">
-    <picture>
-      <img alt="Приветственный баннер" src="assets/light/title.png" />
-    </picture>
-  </p>
 
-  <h1>Привет, я Дмитрий 👋</h1>
-  <p><strong>Software Engineer</strong></p>
-  <p align="center"><em>Специализируюсь на C++, Python и JavaScript, создавая надёжные и эффективные решения.</em></p>
+  <!-- Dynamic Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+    <img alt="Welcome Banner" src="assets/banner-light.png" width="80%" />
+  </picture>
+
+  <!-- Title & Tagline -->
+  <h1><strong>Hey there, I’m Dmitry 👋</strong></h1>
+  <p><em>Software Engineer • C++ | Python | JavaScript • Building robust, scalable solutions</em></p>
+
+  <!-- Quick Links -->
+  <p>
+    <a href="#about-me">About</a> •
+    <a href="#tech-stack">Tech Stack</a> •
+    <a href="#projects">Projects</a> •
+    <a href="#stats">Stats</a> •
+    <a href="#contact">Contact</a>
+  </p>
+</div>
 
 ---
 
-## 🛠️ Мой основной стек технологий
+## 🚀 About Me
 
-  <p align="center">
-    <strong>⚙️ C++ Ecosystem & Desktop</strong><br/>
-    <img alt="C++" src="https://img.shields.io/badge/C++%20(17%2B)-FFFDFB?style=for-the-badge&logo=cplusplus&logoColor=053D65#gh-light-mode-only" />
-    <img alt="CMake" src="https://img.shields.io/badge/CMake-FFFDFB?style=for-the-badge&logo=cmake&logoColor=053D65#gh-light-mode-only" />
-    <img alt="Qt" src="https://img.shields.io/badge/Qt-FFFDFB?style=for-the-badge&logo=qt&logoColor=2AA3AC#gh-light-mode-only" />
-    <img alt="STL" src="https://img.shields.io/badge/STL-FFFDFB?style=for-the-badge&logo=libc&logoColor=053D65#gh-light-mode-only" />
-  </p>
-
-  <p align="center">
-    <strong>💾 Backend & Databases</strong><br/>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-FFFDFB?style=for-the-badge&logo=postgresql&logoColor=053D65#gh-light-mode-only" />
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFDFB?style=for-the-badge&logo=mysql&logoColor=053D65#gh-light-mode-only" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-FFFDFB?style=for-the-badge&logo=node.js&logoColor=2AA3AC#gh-light-mode-only" />
-  </p>
-
-  <p align="center">
-    <strong>🌐 Web Frontend Development</strong><br/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFFDFB?style=for-the-badge&logo=javascript&logoColor=FA8D2A#gh-light-mode-only" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFDFB?style=for-the-badge&logo=typescript&logoColor=053D65#gh-light-mode-only" />
-    <img alt="React" src="https://img.shields.io/badge/React-FFFDFB?style=for-the-badge&logo=react&logoColor=2AA3AC#gh-light-mode-only" />
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-13171C?style=for-the-badge&logo=next.js&logoColor=E1E3E1#gh-dark-mode-only" />
-  </p>
-
-  <p align="center">
-    <strong>🛡️ Versatile Languages</strong><br/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFFDFB?style=for-the-badge&logo=python&logoColor=FA8D2A#gh-light-mode-only" />
-    <img alt="Go" src="https://img.shields.io/badge/Go-FFFDFB?style=for-the-badge&logo=go&logoColor=2AA3AC#gh-light-mode-only" />
-  </p>
+- 🎓 **Background**: Engineer with a passion for automation, AI/ML, and industrial control systems
+- 💡 **Focus**: Optimizing processes with Siemens, Schneider Electric, B&R hardware + cloud-based AI
+- 🌱 **Currently**: Diving deeper into computer vision and real-time data pipelines
+- 📚 **Interests**: Gym, yoga, meditation, football, languages (EN 🇬🇧/DE 🇩🇪/DA 🇩🇰), classic literature
 
 ---
 
-## 📊 Моя статистика на GitHub
+## 🛠️ Tech Stack
 
-  <p align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&hide_border=true&rank_icon=github&card_width=450&bg_color=FFFDFB&title_color=053D65&text_color=053D65&icon_color=2AA3AC&ring_color=FA8D2A#gh-light-mode-only" />
-  </p>
-  <p align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimbo1324&layout=compact&hide_border=true&card_width=450&bg_color=FFFDFB&title_color=053D65&text_color=053D65&langs_count=8#gh-light-mode-only" />
-  </p>
-  <p align="center">
-    <img alt="Активность на GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=dimbo1324&hide_border=true&area=true&bg_color=FFFDFB&color=053D65&line=2AA3AC&point=053D65&area_color=2AA3AC#gh-light-mode-only" />
-  </p>
+| Domain              | Tools & Frameworks                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **C++ & Desktop**   | ![C++](https://img.shields.io/badge/C++17+-05122A?style=for-the-badge&logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-05122A?style=for-the-badge&logo=qt) ![CMake](https://img.shields.io/badge/CMake-05122A?style=for-the-badge&logo=cmake)                                                                                                                              |
+| **Backend & DB**    | ![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql)                                                                                                      |
+| **Web Frontend**    | ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-05122A?style=for-the-badge&logo=next.js) |
+| **Other Languages** | ![Go](https://img.shields.io/badge/Go-05122A?style=for-the-badge&logo=go)                                                                                                                                                                                                                                                                                                       |
 
 ---
 
-## 📫 Как со мной связаться
+## 💼 Featured Projects
 
-  <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://t.me/dimbo1324" title="Telegram">
-      <img alt="Telegram" src="https://img.shields.io/badge/Telegram-FFFDFB?style=for-the-badge&logo=telegram&logoColor=2CA5E0#gh-light-mode-only" />
-    </a>
-    <a href="https://wa.me/79049265729" title="WhatsApp">
-      <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-FFFDFB?style=for-the-badge&logo=whatsapp&logoColor=25D366#gh-light-mode-only" />
-    </a>
-    <a href="mailto:dimaprihodko180@gmail.com" title="Gmail">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-FFFDFB?style=for-the-badge&logo=gmail&logoColor=D14836#gh-light-mode-only" />
-    </a>
-  </p>
+<details>
+<summary><strong>Industrial Automation Dashboard</strong> — Real-time monitoring for power plants</summary>
+
+- Built with C++, Qt & RESTful APIs to visualize sensor data
+- Integrated cloud-based ML for anomaly detection
+- ✅ **Highlights**:
+  - 99.7% uptime over 6 months
+  - Reduced manual alerts by 85%
+
+</details>
+
+<details>
+<summary><strong>Smart Vision System</strong> — Computer vision for quality control</summary>
+
+- Python + OpenCV + TensorFlow for defect detection
+- Deployed on edge devices (Raspberry Pi, NVIDIA Jetson)
+- ✅ **Highlights**:
+  - Processed 1200+ items/hour
+  - Accuracy > 98%
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&count_private=true&theme=dark&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimbo1324&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+  <a href="https://t.me/dimbo1324" title="Telegram">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=FFFDFB" />
+  </a>
+  <a href="https://wa.me/79049265729" title="WhatsApp">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFDFB" />
+  </a>
+  <a href="mailto:dimaprihodko180@gmail.com" title="Email">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFDFB" />
+  </a>
+  <a href="https://linkedin.com/in/dmitry-profile" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFDFB" />
+  </a>
 </div>
