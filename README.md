@@ -1,9 +1,7 @@
 <div align="center">
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/dark_theme_title.png">
-      <source media="(prefers-color-scheme: light)" srcset="assets/white_theme_title.png">
-      <img alt="Приветственный баннер" src="assets/white_theme_title.png" />
+      <img alt="Приветственный баннер" src="assets/light/title.png" />
     </picture>
   </p>
 
