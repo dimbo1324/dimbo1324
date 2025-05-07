@@ -65,16 +65,17 @@
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://t.me/dimbo1324" title="Telegram">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-13171C?style=for-the-badge&logo=telegram&logoColor=2CA5E0#gh-dark-mode-only" />
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-FFFDFB?style=for-the-badge&logo=telegram&logoColor=2CA5E0#gh-light-mode-only" />
   </a>
   <a href="https://wa.me/79049265729" title="WhatsApp">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-13171C?style=for-the-badge&logo=whatsapp&logoColor=25D366#gh-dark-mode-only" />
+
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-FFFDFB?style=for-the-badge&logo=whatsapp&logoColor=25D366#gh-light-mode-only" />
+
   </a>
   <a href="mailto:dimaprihodko180@gmail.com" title="Gmail">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-13171C?style=for-the-badge&logo=gmail&logoColor=D14836#gh-dark-mode-only" />
+
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-FFFDFB?style=for-the-badge&logo=gmail&logoColor=D14836#gh-light-mode-only" />
+
   </a>
 </p>
 
