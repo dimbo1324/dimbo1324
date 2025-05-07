@@ -25,10 +25,9 @@
 
 ## 🚀 About Me
 
-- 🎓 **Background**: Engineer with a passion for automation, AI/ML, and industrial control systems
-- 💡 **Focus**: Optimizing processes with Siemens, Schneider Electric, B&R hardware + cloud-based AI
-- 🌱 **Currently**: Diving deeper into computer vision and real-time data pipelines
-- 📚 **Interests**: Gym, yoga, meditation, football, languages (EN 🇬🇧/DE 🇩🇪/DA 🇩🇰), classic literature
+I work mainly in industrial automation—PLCs and SCADA systems are my everyday focus.  
+My go-to tools are C++ and JavaScript, with occasional projects in Python and Go.  
+Always learning, always refining.
 
 ---
 
