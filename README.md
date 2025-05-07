@@ -34,12 +34,24 @@
 
 ## 🛠️ Tech Stack
 
-| Domain              | Tools & Frameworks                                                                                                                                                                                                                                                                                                                                                              |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **C++ & Desktop**   | ![C++](https://img.shields.io/badge/C++17+-05122A?style=for-the-badge&logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-05122A?style=for-the-badge&logo=qt) ![CMake](https://img.shields.io/badge/CMake-05122A?style=for-the-badge&logo=cmake)                                                                                                                              |
-| **Backend & DB**    | ![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql)                                                                                                      |
-| **Web Frontend**    | ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-05122A?style=for-the-badge&logo=next.js) |
-| **Other Languages** | ![Go](https://img.shields.io/badge/Go-05122A?style=for-the-badge&logo=go)                                                                                                                                                                                                                                                                                                       |
+**C++ & Desktop**:  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+**Backend & Databases**:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Web Frontend**:  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Other Languages**:  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
@@ -69,12 +81,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
 
-<p align="center">
+<div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&count_private=true&theme=dark&hide_border=true" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimbo1324&layout=compact&theme=dark&hide_border=true" />
-</p>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimbo1324&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=dimbo1324&theme=onedark&no-frame=true&margin-w=15" />
+</div>
 
 ---
 
