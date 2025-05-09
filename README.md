@@ -58,6 +58,7 @@
 
 ---
 
+<!--
 ## 💼 Featured Projects
 
 <details>
@@ -78,7 +79,7 @@
 - 🔗 **Repository:** [https://github.com/dimbo1324/c-plus-plus-audio-plugin](https://github.com/dimbo1324/c-plus-plus-audio-plugin)
 </details>
 
----
+--- -->
 
 ## 📊 GitHub Stats & Achievements
 
