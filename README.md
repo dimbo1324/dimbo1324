@@ -22,7 +22,8 @@
   <p style="margin-top:10px;">
     <a href="#about">About</a> •
     <a href="#tech-stack">Tech</a> •
-    <a href="#github-insights">GitHub Insights</a> •
+    <a href="#what-i-build">What I build</a> •
+    <a href="#github-stats">Stats</a> •
     <a href="#contact">Contact</a>
   </p>
 
@@ -30,7 +31,7 @@
 
 ---
 
-## 🚀 About
+# 🚀 About
 
 - **Background:** Engineer focused on automation, industrial control systems, and reliable software design.
 - **Primary focus:** Automating everything with modern C++ — including desktop apps, real-time data pipelines, and computer vision.
@@ -39,7 +40,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
+
+A compact snapshot of the tools and languages I use daily.
 
 **C++ & Desktop**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
@@ -55,58 +58,50 @@
 
 ---
 
-## 🔍 Visual GitHub Insights
+# 🔭 What I build
 
-*Modern, graph-focused view of my GitHub activity and languages. These are live images provided by popular GitHub-readme services.*
-
-<div align="center">
-
-<!-- Layout: two-row responsive grid -->
-<table>
-  <tr>
-    <td align="center">
-      <!-- Contribution heatmap (compact) -->
-      <p><strong>Contribution Heatmap</strong></p>
-      <img alt="Contribution chart" src="https://ghchart.rshah.org/dimbo1324" style="max-width:100%; height:auto; border-radius:8px;" />
-      <p style="font-size:12px; color:var(--muted)">Yearly contributions — hover on GitHub profile for details.</p>
-    </td>
-
-    <td align="center">
-      <!-- Activity graph (line/area) -->
-      <p><strong>Activity Graph (commits & weekly rhythm)</strong></p>
-      <!-- activity-graph service (theme: react-dark) -->
-      <img alt="Activity graph" src="https://activity-graph.herokuapp.com/graph?username=dimbo1324&theme=react-dark&area=true&hide_border=true" style="max-width:100%; height:auto; border-radius:8px;" />
-      <p style="font-size:12px; color:var(--muted)">A timeline of daily activity (commits, PRs, issues).</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <!-- Top languages (compact layout) -->
-      <p><strong>Top Languages</strong></p>
-      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimbo1324&layout=compact&theme=vision-friendly-dark&hide_border=true" style="max-width:420px; height:auto; border-radius:8px;" />
-      <p style="font-size:12px; color:var(--muted)">Language distribution across public repos.</p>
-    </td>
-
-    <td align="center">
-      <!-- Summary stats card (commits, stars, forks) -->
-      <p><strong>Summary / Quick Stats</strong></p>
-      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&count_private=true&theme=radical&hide_border=true" style="max-width:420px; height:auto; border-radius:8px;" />
-      <p style="font-size:12px; color:var(--muted)">At-a-glance stats: commits, PRs, stars, followers.</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-> Notes:
->
-> - These images are rendered by third-party services (ghchart, activity-graph, github-readme-stats). They update automatically as your GitHub activity changes.
-> - If any service becomes temporarily unavailable, we can swap it for an alternative (I can provide fallbacks).
+- Reliable desktop apps with modern C++ and Qt.
+- Real-time data pipelines for computer vision and control.
+- Automation tooling and engineering integrations.
+- Full-stack web tools for internal dashboards and data tooling.
 
 ---
 
-## 📫 Contact
+# 📈 Modern GitHub Stats & Activity
+
+I've replaced the classic badges with a set of modern, graph-style widgets that give quick visual insight into activity, languages and contributions.
+
+> **Note:** These widgets use public image endpoints (third-party services). If you prefer different themes or a private/hosted solution, I can adjust.
+
+<div align="center" style="display:flex; flex-wrap:wrap; gap:18px; justify-content:center; align-items:flex-start;">
+
+  <!-- Large profile card -->
+  <div style="max-width:700px; width:100%;">
+    <img alt="GitHub Profile Card" src="https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&count_private=true&theme=dark&hide_border=true&card_width=700" style="width:100%; max-width:700px; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.35);" />
+  </div>
+
+  <!-- Activity graph -->
+  <div style="max-width:700px; width:100%;">
+    <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dimbo1324&theme=react-dark&area=true&hide_border=true" style="width:100%; max-width:700px; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.35);" />
+  </div>
+
+  <!-- Heatmap-style contributions (compact) -->
+  <div style="max-width:700px; width:100%;">
+    <img alt="Contribution Heatmap" src="https://ghchart.rshah.org/dimbo1324" style="width:100%; max-width:700px; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.35);" />
+  </div>
+
+  <!-- Top languages (compact) -->
+  <div style="max-width:420px; width:100%;">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimbo1324&layout=compact&theme=dark&hide_border=true" style="width:100%; max-width:420px; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.35);" />
+  </div>
+
+</div>
+
+*If you prefer a different visual style (lighter theme, minimal cards, or a vertical single-column layout for mobile), tell me and I'll produce an alternate version.*
+
+---
+
+# 📫 Contact
 
 <div align="center" style="display:flex; gap:10px; justify-content:center; margin-top:12px;">
   <a href="https://t.me/dimbo1324" title="Telegram" style="text-decoration:none;">
@@ -119,3 +114,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+---
+
+*Last updated: **August 29, 2025**
