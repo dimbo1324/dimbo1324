@@ -1,0 +1,30 @@
+name: Update README widgets
+on:
+  schedule:
+    - cron: "0 1 * * *" # ежедневно в 01:00 UTC (подберите по желанию)
+  workflow_dispatch:
+
+jobs:
+  fetch-widgets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create assets folder
+        run: mkdir -p assets
+      - name: Download GitHub stats images
+        env:
+          GH_USER: dimbo1324
+        run: |
+          # основной источник (пример)
+          curl -L "https://github-readme-stats.vercel.app/api?username=${GH_USER}&show_icons=true&count_private=true&theme=dracula&hide_border=true&include_all_commits=true" -o assets/github-stats.png
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=${GH_USER}&layout=compact&theme=dracula&hide_border=true&langs_count=8" -o assets/top-langs.png
+          curl -L "https://github-readme-activity-graph.vercel.app/graph?username=${GH_USER}&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true&theme=tokyo-night" -o assets/contrib-graph.png
+          # пример streak (если используете сервис streak-stats.demolab.com)
+          curl -L "https://streak-stats.demolab.com?user=${GH_USER}&theme=dark&hide_border=true&border_radius=5" -o assets/streak.png
+      - name: Commit & push assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.png || true
+          git commit -m "chore: update README widgets" || echo "No changes to commit"
+          git push
