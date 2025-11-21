@@ -34,40 +34,93 @@
 
 ### 🛠 Технический стек
 
-<div align="center">
+<!-- Вставьте этот блок в README или в HTML-файл -->
+<style>
+  .tech-stack {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  }
 
-<div style="max-width:900px; margin:0 auto; text-align:center;">
+  .stack-group {
+    position: relative;               /* нужно для абсолютного позиционирования заголовка */
+    margin: 32px 0;
+    padding-top: 20px;                /* место под заголовок */
+  }
 
-  <div style="margin: 10px 0;">
-    <strong style="display:block; margin-bottom:10px;">Языки программирования</strong>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
+  /* Заголовок, который будет "поверх" инструментов */
+  .stack-group__title {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%); /* поднять над контейнером */
+    display: inline-block;
+    padding: 8px 14px;
+    background: rgba(10,12,14,0.95);  /* совпадает с темным фоном; подстройте цвет */
+    color: #fff;
+    font-weight: 700;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(3,6,9,0.6);
+    letter-spacing: 0.2px;
+    font-size: 15px;
+    z-index: 2;
+    white-space: nowrap;
+  }
+
+  .stack-group__badges {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 18px 12px;
+    border-radius: 12px;
+    /* лёгкая подсветка контейнера, чтобы заголовок читался лучше */
+    background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00));
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Мобильная подстройка */
+  @media (max-width: 520px) {
+    .stack-group__title { font-size: 13px; padding: 6px 10px; }
+    .stack-group__badges img { height: 28px; }
+  }
+</style>
+
+<div class="tech-stack">
+
+  <div class="stack-group">
+    <div class="stack-group__title">Языки программирования</div>
+    <div class="stack-group__badges">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
+      <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
+    </div>
   </div>
 
-  <br/>
-
-  <div style="margin: 10px 0;">
-    <strong style="display:block; margin-bottom:10px;">Фреймворки и библиотеки</strong>
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30" />
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30" />
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30" />
-    <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="30" />
-    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" />
+  <div class="stack-group">
+    <div class="stack-group__title">Фреймворки и библиотеки</div>
+    <div class="stack-group__badges">
+      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30" />
+      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30" />
+      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30" />
+      <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="30" />
+      <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" />
+    </div>
   </div>
 
-  <br/>
-
-  <div style="margin: 10px 0;">
-    <strong style="display:block; margin-bottom:10px;">Инфраструктура и DevOps</strong>
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30" />
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="30" />
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" />
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="30" />
+  <div class="stack-group">
+    <div class="stack-group__title">Инфраструктура и DevOps</div>
+    <div class="stack-group__badges">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" />
+      <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30" />
+      <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="30" />
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" />
+      <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="30" />
+    </div>
   </div>
-
-</div>
 
 </div>
 
