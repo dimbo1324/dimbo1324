@@ -40,37 +40,37 @@
 
   <div style="margin: 10px 0;">
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-        height="20" />
+        height="30" />
       <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-        height="20" />
+        height="30" />
       <img alt="JavaScript"
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-        height="20" />
+        height="30" />
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-        height="20" />
+        height="30" />
       <img alt="PyTorch"
         src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
-        height="20" />
+        height="30" />
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
-        height="20" />
+        height="30" />
       <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"
-        height="20" />
+        height="30" />
       <img alt="scikit-learn"
         src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
-        height="20" />
+        height="30" />
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-        height="20" />
+        height="30" />
       <img alt="Kubernetes"
         src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
-        height="20" />
+        height="30" />
       <img alt="Jenkins"
         src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"
-        height="20" />
+        height="30" />
       <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-        height="20" />
+        height="30" />
       <img alt="Terraform"
         src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"
-        height="20" />
+        height="30" />
     </div>
 
   </div>
@@ -94,15 +94,15 @@
 <div align="center">
   <p>📫 <b>Связаться со мной:</b></p>
   <a href="mailto:dimaprihodko180@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
   </a>
   <a href="https://t.me/dimbo1324">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"/>
   </a>
   <a href="https://stepik.org/users/656174466/profile">
-    <img src="https://img.shields.io/badge/Stepik-00BFFF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Stepik" />
+    <img src="https://img.shields.io/badge/Stepik-00BFFF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Stepik" height="30"/>
   </a>
   <a href="https://leetcode.com/u/dimaprihodko180/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="25"/>
   </a>
 </div>
