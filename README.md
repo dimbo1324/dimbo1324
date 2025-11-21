@@ -34,63 +34,20 @@
 
 ### 🛠 Технический стек
 
-<div align="center">
+**Языки программирования**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<table cellpadding="8">
-  <tr>
-    <td align="center" valign="top" width="34%">
-      <h4>💻 Языки</h4>
-      <p>
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-        <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28"/>
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28"/>
-        <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
-      </p>
-      <small>Python — моделирование & прототипы; C++ — производительность; JS — визуализация/инструменты.</small>
-    </td>
+**Фреймворки и библиотеки**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white)
 
-    <td align="center" valign="top" width="33%">
-      <h4>🧪 Scientific ML & Data</h4>
-      <p>
-        <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28"/>
-        <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
-        <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="28"/>
-        <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
-      </p>
-      <small>PINNs, суррогаты, обработка временных рядов и аналитика для АСУТП.</small>
-    </td>
-
-    <td align="center" valign="top" width="33%">
-      <h4>🔧 Инструменты & Infra</h4>
-      <p>
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
-        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"/>
-        <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" height="28"/>
-        <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-E2231A?style=for-the-badge&logo=autodesk&logoColor=white" height="28"/>
-      </p>
-      <small>Контейнеры, HPC-окружение, инженерная документация и CAD-интеграция.</small>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="3">
-      <br/>
-      <strong>Уровень навыков</strong> — визуально:
-      <br/>
-      Python ▰▰▰▰▰ (Expert) &nbsp;&nbsp; C++ ▰▰▰▰▱ (Advanced) &nbsp;&nbsp; PyTorch ▰▰▰▰▱ (Advanced)
-      <br/>
-      Docker ▰▰▰▰▱ (Advanced) &nbsp;&nbsp; LaTeX ▰▰▰▱▱ (Proficient)
-    </td>
-  </tr>
-</table>
-
-</div>
+**Инфраструктура и DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
 ### 💡 Моя Философия
 
-> _"Simulation is the imagination of the machine, but Physics is its conscience."_
+> *"Simulation is the imagination of the machine, but Physics is its conscience."*
 
 Я убежден, что будущее инженерии — в гармоничном сочетании физических моделей и нейронных сетей, а не в замене одних другими. Моя цель — разрабатывать системы, которые одинаково хорошо понимают законы природы и паттерны в данных.
 
