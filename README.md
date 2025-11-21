@@ -1,9 +1,17 @@
 <div align="center">
-  <h1>Привет, я [Ваше Имя]! 👋</h1>
+  <img src="include/img/test.png" alt="Header Image" width="800" />
+</div>
+
+<div align="center">
+  <h1>Привет, я Дима! 👋</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Physics-Informed+ML+Engineer;Scientific+Computing+%26+Simulation;C%2B%2B+%2F+Python+Developer;Bridging+Physics+and+AI" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="AI Physics GIF" width="600" />
 </div>
 
 <div align="center">
@@ -14,12 +22,13 @@
 
 ### 👨‍💻 Обо мне
 
-Я инженер-разработчик с бэкграундом в **теплофизике и АСУТП**, перешедший в область **Scientific Machine Learning**. Моя специализация — создание алгоритмов, которые объединяют физические законы с гибкостью нейросетей для решения сложных инженерных задач.
+Я инженер-разработчик с опытом в **веб-разработке, бэкенд-разработке на С++, теплофизике и АСУТП**. В настоящее время я специализируюсь на **научном машинном обучении (Scientific Machine Learning)**.
+Моя работа заключается в создании алгоритмов, которые эффективно объединяют физические законы с гибкостью нейросетей для решения сложных инженерных задач.
 
 * 🔭 Сейчас я работаю над: **Physics-Informed Neural Networks (PINNs) для моделирования тепломассообмена**.
-* 🧬 Мой подход: `Data-Driven` + `Physics-Based` = **Robust AI**.
-* 🎓 Образование: Магистр (Теплоэнергетика & Теплофизика).
-* ⚡ Интересы: Высокие технологии, High-Performance Computing, Музыка.
+* 🧬 Мой подход: _Ориентированный на данные_ + _основанный на физических моделях_ = **надёжный искусственный интеллект**.
+* 🎓 Образование: Магистр (Теплоэнергетика и Теплофизика) институт атомной энергетики и технической физики..
+* ⚡ Интересы: Музыка, атомная энергетика, космос, йога, AI и ML, высокие технологии, высокопроизводительные вычисления.
 
 ---
 
@@ -45,7 +54,6 @@
 **Engineering & Tools**
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
 <img src="https://img.shields.io/badge/AutoCAD-E2231A?style=for-the-badge&logo=autodesk&logoColor=white" />
@@ -56,9 +64,9 @@
 
 ### 💡 Моя Философия
 
-> *"Simulation is the imagination of the machine, but Physics is its conscience."*
+> _"Simulation is the imagination of the machine, but Physics is its conscience."_
 
-Я верю, что будущее инженерии — это не замена физических моделей нейросетями, а их глубокая интеграция. Моя цель — создавать системы, которые понимают законы природы так же хорошо, как и паттерны данных.
+Я убежден, что будущее инженерии — в гармоничном сочетании физических моделей и нейронных сетей, а не в замене одних другими. Моя цель — разрабатывать системы, которые одинаково хорошо понимают законы природы и паттерны в данных.
 
 <div align="center">
   <img src="https://latex.codecogs.com/svg.latex?\Large&space;\color{white}\frac{\partial\mathbf{u}}{\partial&space;t}+(\mathbf{u}\cdot\nabla)\mathbf{u}-\nu\nabla^2\mathbf{u}=-\nabla&space;w+\mathbf{g}" title="Navier-Stokes Equation" />
@@ -68,10 +76,16 @@
 
 <div align="center">
   <p>📫 <b>Связаться со мной:</b></p>
-  <a href="mailto:ваша@почта.com">
+  <a href="mailto:dimaprihodko180@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/[ВАШ_ПРОФИЛЬ]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://t.me/dimbo1324">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://stepik.org/users/656174466/profile">
+    <img src="https://img.shields.io/badge/Stepik-00BFFF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Stepik" />
+  </a>
+  <a href="https://leetcode.com/u/dimaprihodko180/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
