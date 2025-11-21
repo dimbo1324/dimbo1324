@@ -103,6 +103,6 @@
     <img src="https://img.shields.io/badge/Stepik-00BFFF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Stepik" height="30"/>
   </a>
   <a href="https://leetcode.com/u/dimaprihodko180/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="25"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="30"/>
   </a>
 </div>
