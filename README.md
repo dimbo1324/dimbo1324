@@ -54,21 +54,6 @@
 
 ---
 
-### 📊 GitHub Статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ВАШ_НИКНЕЙМ]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ВАШ_НИКНЕЙМ]&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=[ВАШ_НИКНЕЙМ]&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
 ### 💡 Моя Философия
 
 > *"Simulation is the imagination of the machine, but Physics is its conscience."*
