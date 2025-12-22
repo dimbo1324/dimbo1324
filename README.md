@@ -5,7 +5,7 @@
   <br /><br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=28&pause=1000&color=F7931E&center=true&vCenter=true&width=650&lines=Quantum+Cryptography+Engineer;Post-Quantum+Encryption+(PQC);Rust+%2F+C%2B%2B+%2F+Python+Developer;Protecting+Data+in+Superposition" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=28&pause=1000&color=F7931E&center=true&vCenter=true&width=650&lines=Quantum+Cryptography+Engineer;Post-Quantum+Encryption+(PQC);Python+Developer;Protecting+Data+in+Superposition" alt="Typing SVG" />
   </a>
 
   <h3 style="color: #4a5568; font-weight: 500; font-size: 1.1em; margin-top: 12px;">
