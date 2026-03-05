@@ -1,186 +1,61 @@
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=200&section=header&text=Dmitry%20Prihodko&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=55&desc=IIoT%20Engineer%20%C2%B7%20Digital%20Twin%20Architect%20%C2%B7%20Industrial%20AI&descAlignY=78&descSize=16&descColor=7890a8" width="100%"/>
+
 <div align="center">
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dmitry+%F0%9F%91%8B;IIoT+%26+Industrial+Software+Engineer;Digital+Twin+%7C+SCADA+%7C+AI+for+Industry;Building+the+Automated+Future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=680&lines=I+automate+the+infrastructure+of+civilization.;Building+AI+that+understands+physics.;Making+industry+safer+%E2%80%94+one+simulation+at+a+time.;300+MW+steam+plant%2C+running+in+Python.)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%"/>
+<br/>
+
+[![Email](https://img.shields.io/badge/-dimaprihodko180@gmail.com-101827?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:dimaprihodko180@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-dmitry--prihodko-101827?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dmitry-prihodko-6282b8372/)
+[![Telegram](https://img.shields.io/badge/-@dimbo1324-101827?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/dimbo1324)
+[![LeetCode](https://img.shields.io/badge/-dimaprihodko180-101827?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/dimaprihodko180/)
+[![Profile Views](https://komarev.com/ghpvc/?username=dimbo1324&color=00d9ff&style=flat-square&label=visitors)](https://github.com/dimbo1324)
 
 </div>
 
 ---
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
-
-### 🧑‍💻 About Me
-
-```python
-class Dmitry:
-    location   = "Montevideo, Uruguay 🇺🇾 (soon)"
-    focus      = ["IIoT", "SCADA/APCS", "Digital Twins", "AI"]
-    language   = "Python"  # primary
-    also_knows = ["Golang", "C++"]
-    building   = "CogniBoiler — AI Digital Twin Platform"
-    mission    = "Make industry safer & smarter"
-    open_to    = ["Remote work", "Relocation", "Collaboration"]
-```
-
-I'm a **Software & IIoT Engineer** specializing in industrial automation systems, SCADA/APCS development, and AI-powered industrial platforms. Currently building a production-grade digital twin of a 300 MW steam power plant — combining thermodynamic simulation, real-time control, and neural networks.
-
-Relocating to **Uruguay / Argentina** in 2026–2027 to grow my IIoT brand and contribute to the Latin American industrial tech scene.
-
-<br clear="right"/>
-
----
-
-### 🔥 Streak & Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dimbo1324&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🛠️ Technology Stack
-
-<div align="center">
-
-**Core Languages**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-
-**Industrial & IIoT**
-
-![OPC UA](https://img.shields.io/badge/OPC%20UA-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGNkIzNSIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNVYzbC0xMCA1TDIgM3YxNHoiLz48L3N2Zz4=&logoColor=FF6B35&color=0D1117&labelColor=0D1117)
-![MQTT](https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=eclipse-mosquitto&logoColor=FF6B35)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-0D1117?style=for-the-badge&logo=influxdb&logoColor=22ADF6)
-![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800)
-
-**AI / Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-
-**Backend & API**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![gRPC](https://img.shields.io/badge/gRPC-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Protocol Buffers](https://img.shields.io/badge/Protobuf-0D1117?style=for-the-badge&logo=google&logoColor=00D9FF)
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Helm](https://img.shields.io/badge/Helm-0D1117?style=for-the-badge&logo=helm&logoColor=0F1689)
-
-**Security**
-
-![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FB015B)
-![Cryptography](https://img.shields.io/badge/AES--256%20·%20RSA-0D1117?style=for-the-badge&logo=letsencrypt&logoColor=003A70)
-
-</div>
-
----
-
-### 🚀 Featured Project
-
-<div align="center">
-
-[![CogniBoiler](https://github-readme-stats.vercel.app/api/pin/?username=dimbo1324&repo=cogniboiler&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=C9D1D9)](https://github.com/dimbo1324/cogniboiler)
-
-</div>
-
-```
- ⚡ Steam Boiler + Turbine   →   Physics ODE Model   →   Real-time Simulation
- 🎛️ Virtual PLC              →   Cascade PID Control →   5 Valve Actuators
- 🧠 AI Predictor             →   LSTM · Transformer  →   Anomaly · Efficiency · Maintenance
- 📡 Industrial Protocols     →   OPC UA · MQTT       →   gRPC · Protocol Buffers
- 🔒 Security                 →   mTLS · JWT RS256    →   AES-256 · Audit Log
- 🐳 Infrastructure           →   Docker · K8s · Helm →   GitHub Actions CI/CD
-```
-
-> Simulating a **300 MW gas-fired power plant** — the kind that powers entire cities.
-> Every sensor reading is thermodynamically correct. Every AI prediction is trained on real physics.
-
----
-
-### 📊 Language Distribution
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimbo1324&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8)](https://github.com/dimbo1324)
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dimbo1324&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-[![Dmitry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dimbo1324&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🌍 What I'm Focused On
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="52%">
 
-**🔬 Currently Building**
-- `CogniBoiler` — AI Digital Twin Platform
-- Thermodynamic ODE simulation engine
-- Cascade PID control system
-- LSTM Autoencoder for anomaly detection
+## `$ whoami`
+
+```yaml
+name:       Dmitry Prihodko
+role:       IIoT & Industrial Software Engineer
+location:   → Montevideo, Uruguay  (2026)
+focus:
+  - Digital Twins & Physics Simulation
+  - SCADA / APCS Systems
+  - Industrial AI & Predictive Analytics
+  - Secure Microservice Architecture
+
+currently:  Building CogniBoiler
+            ↳ AI-Driven Digital Twin
+              of a 300 MW power plant
+
+mission:    Make critical infrastructure
+            smarter, safer, autonomous.
+```
+
+<br/>
+
+I write software that controls **real machines** — boilers, turbines, valves, sensors. My code runs where bugs don't just crash a server; they trip an emergency shutdown.
+
+Currently building my flagship open-source project **CogniBoiler** — a production-grade simulation platform for steam power generation, with AI that learns from physics, not from noise.
+
+Relocating to **🇺🇾 Uruguay** to build my IIoT brand across Latin America.
 
 </td>
-<td width="50%">
+<td valign="top" width="48%">
 
-**📚 Currently Learning**
-- PyTorch — LSTM, Transformer, GRU architectures
-- Kubernetes — production-grade orchestration
-- Protocol Buffers + gRPC — typed service contracts
-- Survival Analysis (Weibull) for predictive maintenance
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6b35&text_color=8b9bb4&rank_icon=percentile&include_all_commits=true&count_private=true)](https://github.com/dimbo1324)
 
-**🎯 Goals 2026–2027**
-- 📦 Release CogniBoiler v1.0
-- ✈️ Relocate to Montevideo, Uruguay
-- 🌎 Build IIoT brand in Latin America
-- 🤝 Contribute to open-source SCADA tooling
-
-</td>
-<td width="50%">
-
-**💡 Interests**
-- Industrial IoT & SCADA/APCS systems
-- Digital Twins & physics-based simulation
-- AI for predictive maintenance
-- Critical infrastructure safety & automation
+[![Streak](https://streak-stats.demolab.com?user=dimbo1324&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=8b9bb4&dates=8b9bb4&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </td>
 </tr>
@@ -188,14 +63,172 @@ Relocating to **Uruguay / Argentina** in 2026–2027 to grow my IIoT brand and c
 
 ---
 
-### 📬 Get In Touch
+## `$ cat flagship_project.txt`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-dimaprihodko180@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dimaprihodko180@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmitry%20Prihodko-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dmitry-prihodko-6282b8372/)
-[![Telegram](https://img.shields.io/badge/Telegram-@dimbo1324-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/dimbo1324)
-[![LeetCode](https://img.shields.io/badge/LeetCode-dimaprihodko180-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/dimaprihodko180/)
+<a href="https://github.com/dimbo1324/cogniboiler">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,8,30&height=3&section=header&text=&fontSize=0" width="100%"/>
+</a>
+
+</div>
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                      ┃
+┃   ⚡  C O G N I B O I L E R                                          ┃
+┃      AI-Driven Digital Twin Platform                                 ┃
+┃      for Industrial Steam Power Generation                           ┃
+┃                                                                      ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                                      ┃
+┃  SIMULATION LAYER                                                    ┃
+┃  ├─ Boiler ODE Model    dP/dt = f(T, m, V)  ·  RK45 solver          ┃
+┃  ├─ Turbine Model       W = η · ṁ · (h_in − h_out)                  ┃
+┃  └─ 5 Valve Actuators   Non-linear Cv characteristics                ┃
+┃                                                                      ┃
+┃  CONTROL LAYER                                                       ┃
+┃  ├─ Cascade PID         Power → Pressure → Fuel Valve               ┃
+┃  ├─ Safety Interlocks   P > 185 bar → Emergency Stop in <100ms       ┃
+┃  └─ Virtual PLC         YAML-configured, adaptive Ziegler-Nichols    ┃
+┃                                                                      ┃
+┃  AI LAYER                                                            ┃
+┃  ├─ Anomaly Detector    LSTM Autoencoder · F1 > 0.85 target          ┃
+┃  ├─ Efficiency Advisor  Temporal Transformer · 15-min forecast       ┃
+┃  └─ Predictive Maint.   GRU + Weibull Survival Analysis              ┃
+┃                                                                      ┃
+┃  INFRASTRUCTURE                                                      ┃
+┃  OPC UA · MQTT · gRPC · Protobuf · InfluxDB · PostgreSQL            ┃
+┃  FastAPI · JWT RS256 · AES-256 · mTLS · Docker · K8s · Helm         ┃
+┃                                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+<div align="center">
+
+[![CogniBoiler Repo](https://github-readme-stats.vercel.app/api/pin/?username=dimbo1324&repo=cogniboiler&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6b35&text_color=8b9bb4)](https://github.com/dimbo1324/cogniboiler)
+
+</div>
+
+---
+
+## `$ tech --stack --all`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**⚙️ Core**
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+
+</td>
+<td align="center" width="25%">
+
+**🏭 Industrial**
+<br/><br/>
+![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=eclipse-mosquitto&logoColor=FF6B35)
+![OPC UA](https://img.shields.io/badge/OPC%20UA-0d1117?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==&logoColor=FF6B35)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-0d1117?style=for-the-badge&logo=influxdb&logoColor=22ADF6)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800)
+
+</td>
+<td align="center" width="25%">
+
+**🧠 AI / Data**
+<br/><br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=130654)
+![scikit](https://img.shields.io/badge/sklearn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+
+</td>
+<td align="center" width="25%">
+
+**🚀 Infra**
+<br/><br/>
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/K8s-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![gRPC](https://img.shields.io/badge/gRPC-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `$ git log --oneline --graph`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dimbo1324&bg_color=0d1117&color=00d9ff&line=1a4a6b&point=00d9ff&area_color=0d2137&area=true&hide_border=true&custom_title=Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `$ ls -la roadmap/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📍 Now — 2026**
+
+```
+[██████████░░░░░░░░░░] Phase 1/7
+ ✅ Project foundation & tooling
+ 🔄 Physics Engine (ODE boiler model)
+ ⏳ Virtual PLC & cascade PID
+ ⏳ MQTT · OPC UA · gRPC · InfluxDB
+ ⏳ FastAPI · JWT · PostgreSQL
+ ⏳ PyTorch models · MLflow
+ ⏳ Kubernetes · Helm · CI/CD
+```
+
+</td>
+<td width="50%" valign="top">
+
+**🌎 2026 → Beyond**
+
+```
+✈️  Relocate to Montevideo, Uruguay
+🏗️  Release CogniBoiler v1.0
+🤝  IIoT consulting in Latin America
+📡  Real hardware integration
+🔬  RL controller (beat PID with AI)
+🌐  Open-source SCADA tooling
+📚  Technical blog · English & Spanish
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ trophy --display`
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=dimbo1324&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `$ top --languages`
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimbo1324&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b9bb4&langs_count=8&size_weight=0.5&count_weight=0.5)](https://github.com/dimbo1324)
 
 </div>
 
@@ -203,10 +236,27 @@ Relocating to **Uruguay / Argentina** in 2026–2027 to grow my IIoT brand and c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br/>
 
-*"The best way to predict the future is to automate it."*
+```python
+while alive:
+    learn()
+    build()
+    automate()
+    make_industry_safer()
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=dimbo1324&color=00D9FF&style=flat-square&label=Profile+Views)
+<br/>
+
+**⚡ Open to:** Remote work · Relocation · Industrial AI projects · IIoT consulting
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-prihodko-6282b8372/)
+[![Telegram](https://img.shields.io/badge/Message%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dimbo1324)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,30&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
