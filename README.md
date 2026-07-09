@@ -1,10 +1,78 @@
 <div align="center">
 
-# Dmitry Prihodko
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dmitry%20Prihodko&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-**Industrial Software Engineer · IIoT · Digital Twins · Industrial AI**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=2E86AB&center=true&vCenter=true&width=560&lines=Software+Engineer;Based+in+Montevideo%2C+Uruguay+%F0%9F%87%BA%F0%9F%87%BE;Curious+by+default;Always+building+something" alt="Typing SVG" />
 
-Building software for industrial systems: simulation, control, telemetry, and intelligent diagnostics.
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td>
+
+### 👋 A bit about me
+
+I'm a software engineer who enjoys understanding how things work — from low-level details to the bigger picture of a system.
+
+I like clean code, solving real problems, and picking up new tools when they're the right fit for the job.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+| | |
+|---|---|
+| 🌍 **Location** | Montevideo, Uruguay |
+| 💼 **Role** | Software Engineer |
+| 🗣️ **Languages** | English · Russian |
+| 📫 **Best way to reach me** | Telegram or LinkedIn |
+
+</div>
+
+<br>
+
+## 🛠️ Tools I work with
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimbo1324&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dimbo1324&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<br>
+
+## 🤝 Let's connect
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimaprihodko180@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-prihodko-6282b8372/)
@@ -13,133 +81,12 @@ Building software for industrial systems: simulation, control, telemetry, and in
 
 </div>
 
----
-
-## About me
-
-I am a software engineer focused on **industrial automation, IIoT systems, digital twins, and applied AI**.
-
-My work sits at the intersection of:
-
-- **industrial processes**
-- **backend engineering**
-- **physics-based simulation**
-- **monitoring and telemetry**
-- **ML for diagnostics and prediction**
-
-I am especially interested in building software for systems where reliability matters: energy, process industries, and critical infrastructure.
-
----
-
-## What I work on
-
-- Digital twin architecture
-- Industrial telemetry pipelines
-- Control-oriented backend systems
-- Physics-informed simulation
-- Anomaly detection and predictive analytics
-- Secure machine-to-machine communication
-
----
-
-## Featured project — CogniBoiler
-
-**CogniBoiler** is my core engineering project: a digital twin platform for a steam boiler / turbine domain.
-
-It is designed to combine:
-
-- **process simulation**
-- **control logic**
-- **industrial protocols**
-- **telemetry and observability**
-- **AI-based monitoring and analysis**
-
-### Main directions
-
-- Thermodynamic process modelling
-- PID-based control flows
-- Sensor and actuator abstraction
-- OPC UA / MQTT-based integration
-- Backend services for data and orchestration
-- ML components for anomaly detection and efficiency analysis
-
-[![CogniBoiler](https://github-readme-stats.vercel.app/api/pin/?username=dimbo1324&repo=cogniboiler&theme=tokyonight&hide_border=true)](https://github.com/dimbo1324/cogniboiler)
-
----
-
-## Tech stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### Backend & APIs
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Protocol Buffers](https://img.shields.io/badge/Protobuf-333333?style=flat-square)
-
-### Industrial & Data Systems
-
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
-![OPC UA](https://img.shields.io/badge/OPC_UA-555555?style=flat-square)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### AI / Numerical Computing
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### Infrastructure & Quality
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![ruff](https://img.shields.io/badge/ruff-F7B500?style=flat-square)
-![mypy](https://img.shields.io/badge/mypy-strict-2A6DB5?style=flat-square)
-![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=flat-square&logo=pre-commit&logoColor=black)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square)
-
----
-
-## GitHub stats
+<br>
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/dimbo1324)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimbo1324&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/dimbo1324)
+<img src="https://komarev.com/ghpvc/?username=dimbo1324&style=flat-square&color=2E86AB&label=Profile+views" />
 
 </div>
 
----
-
-## Professional interests
-
-I am interested in collaborating on projects related to:
-
-- industrial software
-- IIoT platforms
-- digital twins
-- simulation and control systems
-- data infrastructure for industrial environments
-- applied ML for monitoring, diagnostics, and prediction
-
----
-
-## Contact
-
-The best way to reach me is through **Telegram** or **LinkedIn**.
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dimbo1324)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-prihodko-6282b8372/)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
