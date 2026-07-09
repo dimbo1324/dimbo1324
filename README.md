@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dmitry%20Prihodko&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=2E86AB&center=true&vCenter=true&width=560&lines=Software+Engineer;Based+in+Montevideo%2C+Uruguay+%F0%9F%87%BA%F0%9F%87%BE;Curious+by+default;Always+building+something" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1200&color=2E86AB&center=true&vCenter=true&width=560&height=40&lines=Software+Engineer;Based+in+Montevideo%2C+Uruguay;Curious+by+default;Always+building+something" alt="Typing SVG" />
 
 </div>
 
@@ -59,12 +59,18 @@ I like clean code, solving real problems, and picking up new tools when they're 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dimbo1324&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimbo1324&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<a href="https://github.com/dimbo1324">
+<img src="https://github-stats-extended.vercel.app/api?username=dimbo1324&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="165" />
+</a>
+<a href="https://github.com/dimbo1324">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dimbo1324&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="165" />
+</a>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dimbo1324&theme=tokyonight&hide_border=true" height="165" />
+<a href="https://github.com/dimbo1324">
+<img src="https://streak-stats.demolab.com/?user=dimbo1324&theme=tokyonight&hide_border=true" height="165" />
+</a>
 
 </div>
 
